@@ -19,7 +19,6 @@
 
    -pwd
 
-
  - Remove :  git rm  git.html
  - Reset  :  git reset HEAD git.html
  - Branch :  git branch
@@ -51,3 +50,4 @@
 reset
 ssh key
 
+new
