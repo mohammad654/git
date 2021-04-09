@@ -1,0 +1,55 @@
+
+
+
+
+                                    Git
+
+      Git is a distributed version control system
+
+    git version   git --version
+    user.name     git config --global user.name "Mohammad Ali "
+                  git config user.name
+
+    user.name    git config --global user.email "Mohammad.ali.shikhi.55@gmail.com"
+                  git config user.email
+
+   -git log -n3
+   -git config -l
+
+
+   -pwd
+
+
+ - Remove :  git rm  git.html
+ - Reset  :  git reset HEAD git.html
+ - Branch :  git branch
+             git checkout master
+             git branch my_git
+             git merge master
+             git branch -m mygit my_git
+             git branch -D  my_git
+
+
+
+
+
+
+
+   Push
+
+     -Initialize the git repository
+         git init
+         git status
+         git add .
+     -Commit
+         git commit -m "first commit"
+     -SSH:
+         git remote add origin https://github.com/mohammad654/Git.git
+     git push -u origin main
+
+  git push  origin master
+
+?
+reset
+ssh key
+
