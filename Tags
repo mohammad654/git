@@ -32,10 +32,7 @@
 
 
 
-
-
    Push
-
      -Initialize the git repository
          git init
          git status
